@@ -13,7 +13,7 @@ This repository accompanies a two-part article series on building reliable RAG s
 
 ## How It Works
 
-![RAG diagram](RAG%20-%20diagram.webp)
+![RAG diagram](RAG%20-%20diagram%20-dark.png)
 
 The system runs in two phases:
 
